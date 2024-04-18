@@ -8,7 +8,7 @@ Comprehensive Donor Information: Access detailed profiles of blood donors, inclu
 
 Efficient Inventory Management: Easily manage blood inventory, view available blood types, and monitor quantities.
 
-## echnologies Utilized
+## Technologies Utilized
 Java: Core programming language for application logic and backend functionality.
 
 Swing: Java GUI toolkit for building interactive and visually appealing graphical interfaces.
@@ -18,7 +18,7 @@ MySQL: Relational database management system for storing and managing blood bank
 JDBC: Java Database Connectivity for seamless interaction with the MySQL database.
 
 ## Setup Instructions
-Database Setup: Install MySQL and create a database named bloodbank. Import the provided SQL script (bloodbank.sql) to set up the required tables.
+Database Setup: Install MySQL and create a database named Bloodbank. Import the provided SQL script (bloodbank.sql) to set up the required tables.
 
 IDE Configuration: Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 Library Dependencies: Ensure that the MySQL JDBC driver is added to the project's build path for database connectivity.
@@ -27,7 +27,7 @@ Configuration: Update the database connection details in the Function.java file 
 
 Compile and Run: Compile the project and run the LoginFrame.java file to launch the Blood Bank Management System application.
 
-## Screenshots
+## Demo
 
 ![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand1.png?raw=true)
 
