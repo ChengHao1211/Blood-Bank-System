@@ -28,4 +28,18 @@ Configuration: Update the database connection details in the Function.java file 
 Compile and Run: Compile the project and run the LoginFrame.java file to launch the Blood Bank Management System application.
 
 ##Screenshots
+
 ![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand1.png?raw=true)
+
+![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand2.png?raw=true)
+
+![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand3.png?raw=true)
+
+![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand4.png?raw=true)
+
+![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand5.png?raw=true)
+
+![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand6.png?raw=true)
+
+![image description or alt text](https://github.com/ChengHao1211/Blood-Bank-System/blob/main/Screenshot/BloodBand7.png?raw=true)
+
